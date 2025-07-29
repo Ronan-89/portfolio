@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>My PDF Portfolio</h1>
+  <embed src="portfolio.pdf" type="application/pdf" width="100%" height="800px">
+  <p><a href="portfolio.pdf" target="_blank">Open in a new tab</a></p>
+</body>
+</html>
